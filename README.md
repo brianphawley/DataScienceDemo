@@ -9,4 +9,4 @@ I looked at X, Y, Z
 
 ## My Notebook
 
-*[run my collab notebook](https://github.com/brianphawley/DataScienceDemo/blob/main/DataScienceDemo.ipynb)
+* [run my collab notebook](https://github.com/brianphawley/DataScienceDemo/blob/main/DataScienceDemo.ipynb)
