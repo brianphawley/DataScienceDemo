@@ -4,8 +4,8 @@
 Scaffold for data science project
 
 
-## Backgorund
-I looked at X, Y, Z
+## Background
+
 
 ## Insert Graph 
 
